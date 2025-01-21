@@ -72,11 +72,11 @@ Technology Stack
 Setup Instructions
 ------------------
 
-1.  Copygit clone https://github.com/mevansjr/WeatherApp.git
+1.  ```git clone https://github.com/mevansjr/WeatherApp.git```
     
-2.  Copycd WeatherApp
+2.  ```cd WeatherApp```
     
-3.  Copyopen WeatherApp.xcodeproj
+3.  ```open WeatherApp.xcodeproj```
     
 4.  Install the required dependencies (if any).
     
